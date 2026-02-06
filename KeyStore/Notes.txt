@@ -1,0 +1,2 @@
+Password: Good_Smells160508_keystore
+Alias: Smells Good

@@ -1,0 +1,11 @@
+lastUpgrade=01014
+proj.pluginVersion=0.10.14
+proj.AppId=447830750537
+and.BundleId=com.PupilEntertainment.SmellsGood
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e447830750537%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.PupilEntertainment.SmellsGood%3c%2fstring%3e%0d%0a++%3c%21--achievement+Junky--%3e%0d%0a++%3cstring+name%3d%22achievement_junky%22+translatable%3d%22false%22%3eCgkIyeqrpoQNEAIQAA%3c%2fstring%3e%0d%0a++%3c%21--achievement+How+Stupid--%3e%0d%0a++%3cstring+name%3d%22achievement_how_stupid%22+translatable%3d%22false%22%3eCgkIyeqrpoQNEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Out+of+Touch--%3e%0d%0a++%3cstring+name%3d%22achievement_out_of_touch%22+translatable%3d%22false%22%3eCgkIyeqrpoQNEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=447830750537-eeqc0msku2p1fjkf1ha87li42m5gtt5n.apps.googleusercontent.com
+android.SetupDone=true
+App.NearbdServiceId=com.PupilEntertainment.SmellsGood
+android.NearbySetupDone=true
